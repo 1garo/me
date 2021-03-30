@@ -8,7 +8,7 @@ export default class Sidebar extends Component {
         <h1>1garo.dev</h1>
         <div className="About">
           {/* <h3>about me</h3> */}
-          <h4>Alexandre Vardai. Integration Engineer @<a href="https://en.linkapi.solutions/" target="_blank">linkapi solutions</a></h4>
+          <h4>Alexandre Vardai. Integration Engineer @<a href="https://en.linkapi.solutions/" target="_blank" rel="noreferrer">linkapi solutions</a></h4>
         </div>
       </div>
     )
